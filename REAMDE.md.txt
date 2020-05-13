@@ -8,3 +8,5 @@ This is some text, and I'm checking ot in here.
 
 
 This is some additional Ipsum, so you now. :=)
+
+Maybe this is a new ipsum for index.html
