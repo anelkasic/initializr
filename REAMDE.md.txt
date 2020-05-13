@@ -1,3 +1,7 @@
 # Demo Git Repository
 
 This is the first file in this repo.
+
+## Ipsum Below
+
+This is some text, and I'm checking ot in here.
